@@ -136,7 +136,7 @@ Provide **relevant background or situational context** before asking the main qu
 
 ---
 
-### ✨ Author
-**Ayesha** — Exploring advanced **AI Prompt Engineering** & practical applications in multi-agent systems.  
+Exploring advanced **AI Prompt Engineering** & practical applications in multi-agent systems.  
 ⭐ Star this repo if you found it useful!
+
 
